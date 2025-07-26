@@ -9,6 +9,12 @@ sudo apt-get install libglew-dev libglfw3-dev libglm-dev -y
 sudo apt-get install libao-dev libmpg123-dev -y
 ```
 
+### Download
+
+```sh
+wget https://raw.githubusercontent.com/xchopath/if-coursework/refs/heads/master/grafika-komputer/OpenGL/sphere.cpp
+```
+
 ### Compile
 
 ```sh
